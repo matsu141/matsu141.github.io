@@ -1,24 +1,24 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="matsu141.github.io" resolutions="1x" timestamp="1579271725595">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="matsu141.github.io" resolutions="1x" timestamp="1579272022264">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_2.css" crc="4023894141" ref="未命名-11"/>
-    <file name="master_1.css" crc="4144924960" ref="未命名-14"/>
-    <file name="___-21.css" crc="388706492" ref="未命名-21"/>
-    <file name="___-11.css" crc="325516480" ref="未命名-11"/>
-    <file name="___-14.css" crc="4054293036" ref="未命名-14"/>
+    <file name="master_2.css" crc="4023894141" ref="2"/>
+    <file name="master_1.css" crc="4144924960" ref="1"/>
     <file name="index.css" crc="157556401" ref="index"/>
+    <file name="3.css" crc="388706492" ref="3"/>
+    <file name="2.css" crc="325516480" ref="2"/>
+    <file name="1.css" crc="4054293036" ref="1"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:未命名-11:未命名-14:未命名-21"/>
-    <file name="museutils.js" crc="4216313831" ref="index:未命名-11:未命名-14:未命名-21"/>
-    <file name="whatinput.js" crc="86476730" ref="index:未命名-11:未命名-14:未命名-21"/>
-    <file name="museconfig.js" crc="4177022356" ref="index:未命名-11:未命名-14:未命名-21"/>
-    <file name="jquery.watch.js" crc="460461809" ref="index:未命名-11:未命名-14:未命名-21"/>
-    <file name="require.js" crc="3951022091" ref="index:未命名-11:未命名-14:未命名-21"/>
-    <file name="webpro.js" crc="4143865194" ref="未命名-21"/>
-    <file name="musewpslideshow.js" crc="3781122836" ref="未命名-21"/>
-    <file name="jquery.museoverlay.js" crc="4030747646" ref="未命名-21"/>
-    <file name="touchswipe.js" crc="4200445185" ref="未命名-21"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:2:1:3"/>
+    <file name="museutils.js" crc="4216313831" ref="index:2:1:3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:2:1:3"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:2:1:3"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:2:1:3"/>
+    <file name="require.js" crc="3951022091" ref="index:2:1:3"/>
+    <file name="webpro.js" crc="4143865194" ref="3"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="3"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="3"/>
+    <file name="touchswipe.js" crc="4200445185" ref="3"/>
   </folder>
   <folder name="images">
     <file name="u1827-4.png" crc="4070749508" ref="index"/>
@@ -35,67 +35,85 @@
     <file name="楊怡靜＿主視覺＿01-crop-u1831.jpg" crc="4014425400" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="主視覺314x443.jpg" crc="335807097" seo="true" ref="未命名-11">
+    <file name="主視覺314x443.jpg" crc="335807097" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
       <caption webpage="未命名-11" alt=""/>
     </file>
-    <file name="u811-10.png" crc="4038377414" ref="未命名-11"/>
-    <file name="1542253894772.jpg" crc="3980134794" seo="true" ref="未命名-14">
+    <file name="u811-10.png" crc="4038377414" ref="2"/>
+    <file name="1542253894772.jpg" crc="3980134794" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
       <caption webpage="未命名-14" alt=""/>
     </file>
-    <file name="u658-12.png" crc="160967132" ref="未命名-14"/>
-    <file name="1542253907209.jpg" crc="329468049" seo="true" ref="未命名-14">
+    <file name="u658-12.png" crc="160967132" ref="1"/>
+    <file name="1542253907209.jpg" crc="329468049" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
       <caption webpage="未命名-14" alt=""/>
     </file>
-    <file name="1542253920909.jpg" crc="102929752" seo="true" ref="未命名-14">
+    <file name="1542253920909.jpg" crc="102929752" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
       <caption webpage="未命名-14" alt=""/>
     </file>
-    <file name="1542253898578.jpg" crc="412753529" seo="true" ref="未命名-14">
+    <file name="1542253898578.jpg" crc="412753529" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
       <caption webpage="未命名-14" alt=""/>
     </file>
-    <file name="楊怡靜＿十張小卡＿01.jpg" crc="4252650404" seo="true" ref="未命名-21">
+    <file name="楊怡靜＿十張小卡＿01.jpg" crc="4252650404" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
       <caption webpage="未命名-21" alt=""/>
     </file>
-    <file name="楊怡靜＿十張小卡＿02.jpg" crc="4079806743" seo="true" ref="未命名-21">
+    <file name="楊怡靜＿十張小卡＿02.jpg" crc="4079806743" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
       <caption webpage="未命名-21" alt=""/>
     </file>
-    <file name="楊怡靜＿十張小卡＿03.jpg" crc="455900578" seo="true" ref="未命名-21">
+    <file name="楊怡靜＿十張小卡＿03.jpg" crc="455900578" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
       <caption webpage="未命名-21" alt=""/>
     </file>
-    <file name="楊怡靜＿十張小卡＿04.jpg" crc="4252318789" seo="true" ref="未命名-21">
+    <file name="楊怡靜＿十張小卡＿04.jpg" crc="4252318789" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
       <caption webpage="未命名-21" alt=""/>
     </file>
-    <file name="楊怡靜＿十張小卡＿05.jpg" crc="4158773669" seo="true" ref="未命名-21">
+    <file name="楊怡靜＿十張小卡＿05.jpg" crc="4158773669" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
       <caption webpage="未命名-21" alt=""/>
     </file>
-    <file name="楊怡靜＿主視覺＿01.jpg" crc="351941854" seo="true" ref="未命名-21">
+    <file name="楊怡靜＿主視覺＿01.jpg" crc="351941854" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
       <caption webpage="未命名-21" alt=""/>
     </file>
-    <file name="楊怡靜＿角色說明＿01.jpg" crc="4112842627" seo="true" ref="未命名-21">
+    <file name="楊怡靜＿角色說明＿01.jpg" crc="4112842627" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
       <caption webpage="未命名-21" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="未命名-21"/>
-    <file name="楊怡靜＿角色說明＿02.jpg" crc="4047716736" seo="true" ref="未命名-21">
+    <file name="blank.gif" crc="4208392903" ref="3"/>
+    <file name="楊怡靜＿角色說明＿02.jpg" crc="4047716736" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
       <caption webpage="未命名-21" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="未命名-21"/>
-    <file name="楊怡靜＿十張小卡＿06.jpg" crc="3819973789" seo="true" ref="未命名-21">
+    <file name="loading.gif" crc="3815509949" ref="3"/>
+    <file name="楊怡靜＿十張小卡＿06.jpg" crc="3819973789" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
       <caption webpage="未命名-21" alt=""/>
     </file>
-    <file name="楊怡靜＿十張小卡＿07.jpg" crc="98245978" seo="true" ref="未命名-21">
+    <file name="楊怡靜＿十張小卡＿07.jpg" crc="98245978" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
       <caption webpage="未命名-21" alt=""/>
     </file>
-    <file name="楊怡靜＿十張小卡＿08.jpg" crc="4148700203" seo="true" ref="未命名-21">
+    <file name="楊怡靜＿十張小卡＿08.jpg" crc="4148700203" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
       <caption webpage="未命名-21" alt=""/>
     </file>
-    <file name="楊怡靜＿十張小卡＿09.jpg" crc="326831813" seo="true" ref="未命名-21">
+    <file name="楊怡靜＿十張小卡＿09.jpg" crc="326831813" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
       <caption webpage="未命名-21" alt=""/>
     </file>
-    <file name="楊怡靜＿十張小卡＿10.jpg" crc="171697242" seo="true" ref="未命名-21">
+    <file name="楊怡靜＿十張小卡＿10.jpg" crc="171697242" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
       <caption webpage="未命名-21" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="2097479" seo="true" mt="1579269310763" redirect="true"/>
-  <file name="未命名-11.html" crc="338606885" seo="true" mt="1579266748530" redirect="true"/>
-  <file name="未命名-14.html" crc="137719032" seo="true" mt="1579267048939" redirect="true"/>
-  <file name="未命名-21.html" crc="3945201818" seo="true" mt="1579268046362" redirect="true"/>
+  <file name="index.html" crc="4066656936" seo="true" mt="1579272001367" redirect="true"/>
+  <file name="2.html" crc="274725992" seo="true" mt="1579271999413" redirect="true"/>
+  <file name="1.html" crc="79143441" seo="true" mt="1579271997398" redirect="true"/>
+  <file name="3.html" crc="4030574751" seo="true" mt="1579272001371" redirect="true"/>
 </manifest>
