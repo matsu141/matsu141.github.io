@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="matsu141.github.io" resolutions="1x" timestamp="1579269331262">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="matsu141.github.io" resolutions="1x" timestamp="1579271725595">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_2.css" crc="4023894141" ref="未命名-11"/>
